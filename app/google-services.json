@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "235029822218",
+    "firebase_url": "https://restaurant-recommendation-app.firebaseio.com",
+    "project_id": "restaurant-recommendation-app",
+    "storage_bucket": "restaurant-recommendation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235029822218:android:b32f9b1368a468f975d8f3",
+        "android_client_info": {
+          "package_name": "com.anddev.restaurantrecommendationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235029822218-868190v8rdbu0bg84bf7hbota14tbdvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Ht6kx1W-FkX56Y1c91w9OGinV-_r1-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235029822218-868190v8rdbu0bg84bf7hbota14tbdvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
